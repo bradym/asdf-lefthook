@@ -35,11 +35,11 @@ list_all_versions() {
 
 get_platform() {
   case "$(uname -s)" in
-    Linux)
-      echo "Linux"
+  Linux)
+    echo "Linux"
     ;;
-    Darwin)
-      echo "MacOS"
+  Darwin)
+    echo "MacOS"
     ;;
   esac
 }
