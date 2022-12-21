@@ -3,23 +3,16 @@
 # asdf-lefthook [![Build](https://github.com/bradym/asdf-lefthook/actions/workflows/build.yml/badge.svg)](https://github.com/bradym/asdf-lefthook/actions/workflows/build.yml) [![Lint](https://github.com/bradym/asdf-lefthook/actions/workflows/lint.yml/badge.svg)](https://github.com/bradym/asdf-lefthook/actions/workflows/lint.yml)
 
 
-[lefthook](<TOOL HOMEPAGE>) plugin for the [asdf version manager](https://asdf-vm.com).
+[lefthook](https://github.com/evilmartians/lefthook) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
 # Contents
 
-- [Dependencies](#dependencies)
 - [Install](#install)
 - [Contributing](#contributing)
 - [License](#license)
 
-# Dependencies
-
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
