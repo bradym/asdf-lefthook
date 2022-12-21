@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 set -euo pipefail
-set -x
 
 GH_REPO="https://github.com/evilmartians/lefthook"
 TOOL_NAME="lefthook"
